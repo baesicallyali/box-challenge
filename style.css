@@ -1,4 +1,10 @@
 h1{
     color: tomato;
+}
+
+h2 {
+    color: tomato;
+    margin: 0, auto;
     text-align: center;
+    width: 100%;
 }
